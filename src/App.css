@@ -1,0 +1,9 @@
+/** @format */
+
+.bggradient {
+  background: linear-gradient(
+    160deg,
+    rgb(102 126 234 / 14%) 40%,
+    rgb(144 75 162 / 38%) 100%
+  );
+}
